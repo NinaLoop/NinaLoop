@@ -1,0 +1,3 @@
+- I'm Nina (not my real name ^^)
+- A beginner web developer 
+- I'm new to Github 
